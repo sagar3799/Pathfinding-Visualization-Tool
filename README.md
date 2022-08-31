@@ -1,1 +1,2 @@
 # Pathfinding-Visualization-Tool
+This Path Finding Tool will show you the shortest Path Between 2 points on 50x50 Gird where we can put random walls on random cells..We have used Pygame Python library and A* search Algorithm. In this A* search Algorithm I have used manhattan distance as my heuristic function (H(n)).This A*  pathfinding algorithmic program is an associate degree aware search algorithmic program which suggests it's far more economical than your customary algorithms like breadth-first search or depth-first search.
